@@ -1,0 +1,4142 @@
+{
+  "app": "minmax",
+  "version": 3,
+  "exported": "2026-10-25T08:06:52.995Z",
+  "sessions": [
+    {
+      "id": "mru5ypmd2u04v",
+      "date": "2026-07-21",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "16"
+            },
+            {
+              "l": "42",
+              "r": "16"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "1-Arm Cable Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "10"
+            },
+            {
+              "l": "17.5",
+              "r": "10.5"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "13"
+            },
+            {
+              "l": "7.5",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "10",
+              "r": "24"
+            },
+            {
+              "l": "10",
+              "r": "17.5"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Cable Y-Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "14.5"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mrvlb2u5khn0h",
+      "date": "2026-07-22",
+      "day": "up",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "up0",
+          "name": "1-Arm Cable Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "12"
+            },
+            {
+              "l": "17.5",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up1",
+          "name": "Standing Lat Push Down",
+          "sets": [
+            {
+              "l": "15",
+              "r": "12"
+            },
+            {
+              "l": "15",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up2",
+          "name": "Cable Shrug-In",
+          "sets": [
+            {
+              "l": "40",
+              "r": "25"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up3",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "18"
+            },
+            {
+              "l": "42",
+              "r": "17"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up4",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "16"
+            },
+            {
+              "l": "2.5",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up5",
+          "name": "1-Arm Reverse Pec Deck",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up6",
+          "name": "Cable Crunch",
+          "sets": [
+            {
+              "l": "25",
+              "r": "17"
+            },
+            {
+              "l": "25",
+              "r": "12"
+            }
+          ],
+          "done": true
+        }
+      ]
+    },
+    {
+      "id": "mryivnsavt9ve",
+      "date": "2026-07-24",
+      "day": "ad",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "ad0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "15"
+            },
+            {
+              "l": "7.5",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad1",
+          "name": "Overhead Cable Triceps Extension",
+          "sets": [
+            {
+              "l": "12.5",
+              "r": "18"
+            },
+            {
+              "l": "12.5",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad2",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad3",
+          "name": "Cable Triceps Kickback",
+          "sets": [
+            {
+              "l": "5",
+              "r": "11.5"
+            },
+            {
+              "l": "5",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad4",
+          "name": "DB Wrist Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad5",
+          "name": "DB Wrist Extension",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad6",
+          "name": "Alternating DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad7",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "17"
+            },
+            {
+              "l": "2.5",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad8",
+          "name": "Dead Hang (optional)",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "ms5nsdmav1mk7",
+      "date": "2026-07-29",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "DB Incline Press",
+          "sets": [
+            {
+              "l": "15",
+              "r": "12"
+            },
+            {
+              "l": "15",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "Lat Pulldown (Wide Grip)",
+          "sets": [
+            {
+              "l": "42",
+              "r": "10"
+            },
+            {
+              "l": "42",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Alternate DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "11"
+            },
+            {
+              "l": "10",
+              "r": "7"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "10",
+              "r": "25"
+            },
+            {
+              "l": "10",
+              "r": "19"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Cable Y-Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "ms72oq6vbh5tg",
+      "date": "2026-07-30",
+      "day": "up",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "up0",
+          "name": "Close-Grip Lat Pulldown",
+          "sets": [
+            {
+              "l": "42",
+              "r": "11"
+            },
+            {
+              "l": "42",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up1",
+          "name": "DB Bench Lat Pull Up",
+          "sets": [
+            {
+              "l": "12.5",
+              "r": "20"
+            },
+            {
+              "l": "17.5",
+              "r": "17"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up2",
+          "name": "Cable Shrug-In",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up3",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "19"
+            },
+            {
+              "l": "42",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up4",
+          "name": "DB Lateral Raise",
+          "sets": [
+            {
+              "l": "5",
+              "r": "16"
+            },
+            {
+              "l": "5",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up5",
+          "name": "1-Arm Reverse Pec Deck",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up6",
+          "name": "Cable Crunch",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "ms8iq2zaomcbd",
+      "date": "2026-07-31",
+      "day": "ad",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "ad0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "16"
+            },
+            {
+              "l": "7.5",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad1",
+          "name": "Overhead Cable Triceps Extension",
+          "sets": [
+            {
+              "l": "12.5",
+              "r": "20"
+            },
+            {
+              "l": "12.5",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad2",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad3",
+          "name": "Cable Triceps Kickback",
+          "sets": [
+            {
+              "l": "5",
+              "r": "12"
+            },
+            {
+              "l": "5",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad4",
+          "name": "DB Wrist Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad5",
+          "name": "DB Wrist Extension",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad6",
+          "name": "Alternating DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad7",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "15"
+            },
+            {
+              "l": "2.5",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad8",
+          "name": "Dead Hang (optional)",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "msfoxk3g16vnq",
+      "date": "2026-08-05",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "9"
+            },
+            {
+              "l": "42",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "1-Arm Cable Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "11"
+            },
+            {
+              "l": "17.5",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "15"
+            },
+            {
+              "l": "7.5",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "10",
+              "r": "26"
+            },
+            {
+              "l": "10",
+              "r": "25"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Cable Y-Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "msh3o0s9tb4z6",
+      "date": "2026-08-06",
+      "day": "ad",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "ad0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "16.5"
+            },
+            {
+              "l": "7.5",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad1",
+          "name": "Overhead Cable Triceps Extension",
+          "sets": [
+            {
+              "l": "15",
+              "r": "12"
+            },
+            {
+              "l": "15",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad2",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "16"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad3",
+          "name": "Cable Triceps Kickback",
+          "sets": [
+            {
+              "l": "5",
+              "r": "8"
+            },
+            {
+              "l": "5",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad4",
+          "name": "DB Wrist Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad5",
+          "name": "DB Wrist Extension",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad6",
+          "name": "Alternating DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad7",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "16"
+            },
+            {
+              "l": "2.5",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad8",
+          "name": "Dead Hang (optional)",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "msijctoh01mgl",
+      "date": "2026-08-07",
+      "day": "up",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "up0",
+          "name": "Close-Grip Lat Pulldown",
+          "sets": [
+            {
+              "l": "42",
+              "r": "12"
+            },
+            {
+              "l": "42",
+              "r": "11.5"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up1",
+          "name": "Standing Lat Push Down",
+          "sets": [
+            {
+              "l": "15",
+              "r": "13"
+            },
+            {
+              "l": "15",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up2",
+          "name": "Cable Shrug-In",
+          "sets": [
+            {
+              "l": "40",
+              "r": "26"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up3",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "17"
+            },
+            {
+              "l": "42",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up4",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "17"
+            },
+            {
+              "l": "2.5",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up5",
+          "name": "1-Arm Reverse Pec Deck",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up6",
+          "name": "Cable Crunch",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mspodbyxt0r8i",
+      "date": "2026-08-12",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "18"
+            },
+            {
+              "l": "42",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "Lat Pulldown (Wide Grip)",
+          "sets": [
+            {
+              "l": "42",
+              "r": "10"
+            },
+            {
+              "l": "42",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "13"
+            },
+            {
+              "l": "7.5",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "10",
+              "r": "27"
+            },
+            {
+              "l": "10",
+              "r": "17"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Cable Y-Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "16"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mssklt26eem8a",
+      "date": "2026-08-14",
+      "day": "up",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "up0",
+          "name": "Close-Grip Lat Pulldown",
+          "sets": [
+            {
+              "l": "42",
+              "r": "13"
+            },
+            {
+              "l": "42",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up1",
+          "name": "Standing Lat Push Down",
+          "sets": [
+            {
+              "l": "15",
+              "r": "16"
+            },
+            {
+              "l": "15",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up2",
+          "name": "Cable Shrug-In",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up3",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "20"
+            },
+            {
+              "l": "42",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up4",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "17"
+            },
+            {
+              "l": "2.5",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up5",
+          "name": "1-Arm Reverse Pec Deck",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up6",
+          "name": "Cable Crunch",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "msu0vhlmb3p8m",
+      "date": "2026-08-15",
+      "day": "ad",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "ad0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "15"
+            },
+            {
+              "l": "7.5",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad1",
+          "name": "Overhead Cable Triceps Extension",
+          "sets": [
+            {
+              "l": "15",
+              "r": "13"
+            },
+            {
+              "l": "15",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad2",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad3",
+          "name": "Cable Triceps Kickback",
+          "sets": [
+            {
+              "l": "5",
+              "r": "10"
+            },
+            {
+              "l": "5",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad4",
+          "name": "DB Wrist Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad5",
+          "name": "DB Wrist Extension",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad6",
+          "name": "Alternating DB Curl",
+          "sets": [
+            {
+              "l": "12.5",
+              "r": "7"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad7",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad8",
+          "name": "Dead Hang (optional)",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "msya9jnhjkduh",
+      "date": "2026-08-18",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "Incline Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "11"
+            },
+            {
+              "l": "42",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "Lat Pulldown (Wide Grip)",
+          "sets": [
+            {
+              "l": "42",
+              "r": "11"
+            },
+            {
+              "l": "42",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Alternate DB Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "10",
+              "r": "30"
+            },
+            {
+              "l": "12.5",
+              "r": "19"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Cable Y-Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mszqx5vz5cmg4",
+      "date": "2026-08-19",
+      "day": "up",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "up0",
+          "name": "1-Arm Cable Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "12"
+            },
+            {
+              "l": "17.5",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up1",
+          "name": "Standing Lat Push Down",
+          "sets": [
+            {
+              "l": "15",
+              "r": "15"
+            },
+            {
+              "l": "15",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up2",
+          "name": "Cable Shrug-In",
+          "sets": [
+            {
+              "l": "40",
+              "r": "20"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up3",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "18"
+            },
+            {
+              "l": "42",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up4",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "18"
+            },
+            {
+              "l": "2.5",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up5",
+          "name": "1-Arm Reverse Pec Deck",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up6",
+          "name": "Cable Crunch",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mt2llxzlnmwhm",
+      "date": "2026-08-21",
+      "day": "ad",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "ad0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "15"
+            },
+            {
+              "l": "7.5",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad1",
+          "name": "Overhead Cable Triceps Extension",
+          "sets": [
+            {
+              "l": "15",
+              "r": "15"
+            },
+            {
+              "l": "15",
+              "r": "16"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad2",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad3",
+          "name": "Cable Triceps Kickback",
+          "sets": [
+            {
+              "l": "5",
+              "r": "12"
+            },
+            {
+              "l": "5",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad4",
+          "name": "DB Wrist Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad5",
+          "name": "DB Wrist Extension",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad6",
+          "name": "Alternating DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad7",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad8",
+          "name": "Dead Hang (optional)",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mt89jk11bcmii",
+      "date": "2026-08-25",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "Incline Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "15"
+            },
+            {
+              "l": "42",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "Lat Pulldown (Wide Grip)",
+          "sets": [
+            {
+              "l": "42",
+              "r": "13"
+            },
+            {
+              "l": "42",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Alternate DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "9"
+            },
+            {
+              "l": "10",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "15",
+              "r": "21"
+            },
+            {
+              "l": "15",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Cable Y-Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mtcmgz9snxcx9",
+      "date": "2026-08-28",
+      "day": "up",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "up0",
+          "name": "Close-Grip Lat Pulldown",
+          "sets": [
+            {
+              "l": "42",
+              "r": "13"
+            },
+            {
+              "l": "42",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up1",
+          "name": "Standing Lat Push Down",
+          "sets": [
+            {
+              "l": "15",
+              "r": "15"
+            },
+            {
+              "l": "15",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up2",
+          "name": "Cable Shrug-In",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up3",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "16"
+            },
+            {
+              "l": "42",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "c_mtcmj0usefrow",
+          "name": "Cable Chest Peck Deck",
+          "sets": [
+            {
+              "l": "12.5",
+              "r": "10"
+            },
+            {
+              "l": "10",
+              "r": "11"
+            },
+            {
+              "l": "7.5",
+              "r": "7"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up4",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "18"
+            },
+            {
+              "l": "2.5",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up5",
+          "name": "1-Arm Reverse Pec Deck",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up6",
+          "name": "Cable Crunch",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mtiah75sczkso",
+      "date": "2026-09-01",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "Incline Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "13"
+            },
+            {
+              "l": "42",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "1-Arm Cable Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "13"
+            },
+            {
+              "l": "17.5",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Alternate DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "13"
+            },
+            {
+              "l": "10",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "17"
+            },
+            {
+              "l": "17.5",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Incline DB Y-Raise",
+          "sets": [
+            {
+              "l": "5",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mtjpw1ph5bd7e",
+      "date": "2026-09-02",
+      "day": "ad",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "ad0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "16"
+            },
+            {
+              "l": "7.5",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad1",
+          "name": "Overhead Cable Triceps Extension",
+          "sets": [
+            {
+              "l": "15",
+              "r": "16"
+            },
+            {
+              "l": "15",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad2",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "16"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad3",
+          "name": "Cable Triceps Kickback",
+          "sets": [
+            {
+              "l": "5",
+              "r": "10"
+            },
+            {
+              "l": "5",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad4",
+          "name": "DB Wrist Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad5",
+          "name": "DB Wrist Extension",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad6",
+          "name": "Alternating DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad7",
+          "name": "Shoulder Press",
+          "sets": [
+            {
+              "l": "28",
+              "r": "15"
+            },
+            {
+              "l": "28",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad8",
+          "name": "Dead Hang (optional)",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mtmlvrm5hcfea",
+      "date": "2026-09-04",
+      "day": "up",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "up0",
+          "name": "1-Arm Cable Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "14"
+            },
+            {
+              "l": "17.5",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up1",
+          "name": "Standing Lat Push Down",
+          "sets": [
+            {
+              "l": "15",
+              "r": "16"
+            },
+            {
+              "l": "15",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up2",
+          "name": "Cable Shrug-In",
+          "sets": [
+            {
+              "l": "40",
+              "r": "23"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up3",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "13"
+            },
+            {
+              "l": "42",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "c_mtcmj0usefrow",
+          "name": "Cable Chest Peck Deck",
+          "sets": [
+            {
+              "l": "10",
+              "r": "12"
+            },
+            {
+              "l": "10",
+              "r": "11"
+            },
+            {
+              "l": "5",
+              "r": "16"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up4",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "18"
+            },
+            {
+              "l": "2.5",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up5",
+          "name": "1-Arm Reverse Pec Deck",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up6",
+          "name": "Cable Crunch",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mtsb78kcdoilq",
+      "date": "2026-09-08",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "8"
+            },
+            {
+              "l": "42",
+              "r": "6"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "Lat Pulldown (Wide Grip)",
+          "sets": [
+            {
+              "l": "42",
+              "r": "13"
+            },
+            {
+              "l": "42",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Alternate DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "14"
+            },
+            {
+              "l": "10",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "14"
+            },
+            {
+              "l": "17.5",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Cable Y-Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "14"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mtv60n92knwyr",
+      "date": "2026-09-10",
+      "day": "ad",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "ad0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "16"
+            },
+            {
+              "l": "7.5",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad1",
+          "name": "Overhead Cable Triceps Extension",
+          "sets": [
+            {
+              "l": "15",
+              "r": "19"
+            },
+            {
+              "l": "15",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad2",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "17"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad3",
+          "name": "Cable Triceps Kickback",
+          "sets": [
+            {
+              "l": "5",
+              "r": "11"
+            },
+            {
+              "l": "5",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad4",
+          "name": "DB Wrist Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad5",
+          "name": "DB Wrist Extension",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad6",
+          "name": "Alternating DB Curl",
+          "sets": [
+            {
+              "l": "12.5",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad7",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "5",
+              "r": "10"
+            },
+            {
+              "l": "5",
+              "r": "7"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad8",
+          "name": "Dead Hang (optional)",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mtwlvuek3wu4y",
+      "date": "2026-09-11",
+      "day": "up",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "up0",
+          "name": "Close-Grip Lat Pulldown",
+          "sets": [
+            {
+              "l": "42",
+              "r": "13"
+            },
+            {
+              "l": "42",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up1",
+          "name": "Standing Lat Push Down",
+          "sets": [
+            {
+              "l": "15",
+              "r": "17"
+            },
+            {
+              "l": "15",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up2",
+          "name": "Cable Shrug-In",
+          "sets": [
+            {
+              "l": "40",
+              "r": "27"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up3",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "16"
+            },
+            {
+              "l": "42",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "c_mtcmj0usefrow",
+          "name": "Lying Reverse DB Flye",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "12"
+            },
+            {
+              "l": "7.5",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up4",
+          "name": "Shoulder Press",
+          "sets": [
+            {
+              "l": "28",
+              "r": "11"
+            },
+            {
+              "l": "28",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up5",
+          "name": "1-Arm Reverse Pec Deck",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up6",
+          "name": "Cable Crunch",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mu26rnvd8lueu",
+      "date": "2026-09-15",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "Incline Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "11"
+            },
+            {
+              "l": "42",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "Lat Pulldown (Wide Grip)",
+          "sets": [
+            {
+              "l": "42",
+              "r": "13.5"
+            },
+            {
+              "l": "42",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Alternate DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "15"
+            },
+            {
+              "l": "10",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "12"
+            },
+            {
+              "l": "17.5",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Cable Y-Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mu56ck47vtb5u",
+      "date": "2026-09-17",
+      "day": "ad",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "ad0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "7.5",
+              "r": "18"
+            },
+            {
+              "l": "7.5",
+              "r": "15"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad1",
+          "name": "Overhead Cable Triceps Extension",
+          "sets": [
+            {
+              "l": "15",
+              "r": "20"
+            },
+            {
+              "l": "15",
+              "r": "17"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad2",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad3",
+          "name": "Cable Triceps Kickback",
+          "sets": [
+            {
+              "l": "5",
+              "r": "12"
+            },
+            {
+              "l": "5",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad4",
+          "name": "DB Wrist Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad5",
+          "name": "DB Wrist Extension",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad6",
+          "name": "Alternating DB Curl",
+          "sets": [
+            {
+              "l": "12.5",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad7",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "5",
+              "r": "7"
+            },
+            {
+              "l": "5",
+              "r": "5"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad8",
+          "name": "Dead Hang (optional)",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mucbu4yd6ck8i",
+      "date": "2026-09-22",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "Incline Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "12"
+            },
+            {
+              "l": "42",
+              "r": "7"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "Lat Pulldown (Wide Grip)",
+          "sets": [
+            {
+              "l": "42",
+              "r": "15"
+            },
+            {
+              "l": "42",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Alternate DB Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "16"
+            },
+            {
+              "l": "10",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "14"
+            },
+            {
+              "l": "17.5",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Cable Y-Raise",
+          "sets": [
+            {
+              "l": "2.5",
+              "r": "16"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "muf636jl3h1lh",
+      "date": "2026-09-24",
+      "day": "up",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "up0",
+          "name": "Close-Grip Lat Pulldown",
+          "sets": [
+            {
+              "l": "42",
+              "r": "14"
+            },
+            {
+              "l": "42",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up1",
+          "name": "Standing Lat Push Down",
+          "sets": [
+            {
+              "l": "15",
+              "r": "18"
+            },
+            {
+              "l": "15",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up2",
+          "name": "Cable Shrug-In",
+          "sets": [
+            {
+              "l": "40",
+              "r": "24"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up3",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "17"
+            },
+            {
+              "l": "42",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "c_mtcmj0usefrow",
+          "name": "Cable Chest Peck Deck",
+          "sets": [
+            {
+              "l": "10",
+              "r": "20"
+            },
+            {
+              "l": "10",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up4",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "5",
+              "r": "10"
+            },
+            {
+              "l": "5",
+              "r": "7"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up5",
+          "name": "1-Arm Reverse Pec Deck",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up6",
+          "name": "Cable Crunch",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mugmeekih66l4",
+      "date": "2026-09-25",
+      "day": "ad",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "ad0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "8"
+            },
+            {
+              "l": "10",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad1",
+          "name": "Overhead Cable Triceps Extension",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "9"
+            },
+            {
+              "l": "17.5",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad2",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad3",
+          "name": "Cable Triceps Kickback",
+          "sets": [
+            {
+              "l": "5",
+              "r": "13"
+            },
+            {
+              "l": "5",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad4",
+          "name": "DB Wrist Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad5",
+          "name": "DB Wrist Extension",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad6",
+          "name": "Alternating DB Curl",
+          "sets": [
+            {
+              "l": "12.5",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad7",
+          "name": "Shoulder Press",
+          "sets": [
+            {
+              "l": "28",
+              "r": "13"
+            },
+            {
+              "l": "28",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad8",
+          "name": "Dead Hang (optional)",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "mup5uv3fzyeo7",
+      "date": "2026-10-01",
+      "day": "ad",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "ad0",
+          "name": "Bayesian Cable Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "11"
+            },
+            {
+              "l": "10",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad1",
+          "name": "Overhead Cable Triceps Extension",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "14"
+            },
+            {
+              "l": "17.5",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad2",
+          "name": "Modified Zottman Curl",
+          "sets": [
+            {
+              "l": "10",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad3",
+          "name": "Cable Triceps Kickback",
+          "sets": [
+            {
+              "l": "5",
+              "r": "13"
+            },
+            {
+              "l": "5",
+              "r": "8"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad4",
+          "name": "DB Wrist Curl",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad5",
+          "name": "DB Wrist Extension",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "ad6",
+          "name": "Alternating DB Curl",
+          "sets": [
+            {
+              "l": "12.5",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad7",
+          "name": "Shoulder Press",
+          "sets": [
+            {
+              "l": "28",
+              "r": "14"
+            },
+            {
+              "l": "28",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "ad8",
+          "name": "Dead Hang (optional)",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "muxqqklb7m5ug",
+      "date": "2026-10-07",
+      "day": "fb",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "fb2",
+          "name": "DB Incline Press",
+          "sets": [
+            {
+              "l": "15",
+              "r": "13"
+            },
+            {
+              "l": "15",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb4",
+          "name": "1-Arm Cable Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "10"
+            },
+            {
+              "l": "17.5",
+              "r": "9"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb0",
+          "name": "Alternate DB Curl",
+          "sets": [
+            {
+              "l": "12.5",
+              "r": "9"
+            },
+            {
+              "l": "12.5",
+              "r": "7"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb1",
+          "name": "Triceps Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "15"
+            },
+            {
+              "l": "17.5",
+              "r": "10"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "fb3",
+          "name": "Cable Y-Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "fb5",
+          "name": "Standing Calf Raise",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "muz8hlh15rv4a",
+      "date": "2026-10-08",
+      "day": "up",
+      "saved": true,
+      "entries": [
+        {
+          "sid": "up0",
+          "name": "1-Arm Cable Pulldown",
+          "sets": [
+            {
+              "l": "17.5",
+              "r": "12"
+            },
+            {
+              "l": "17.5",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up1",
+          "name": "Standing Lat Push Down",
+          "sets": [
+            {
+              "l": "15",
+              "r": "15"
+            },
+            {
+              "l": "15",
+              "r": "13"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up2",
+          "name": "Cable Shrug-In",
+          "sets": [
+            {
+              "l": "40",
+              "r": "23"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up3",
+          "name": "Machine Chest Press",
+          "sets": [
+            {
+              "l": "42",
+              "r": "15"
+            },
+            {
+              "l": "42",
+              "r": "12"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "c_mtcmj0usefrow",
+          "name": "Cable Chest Peck Deck",
+          "sets": [
+            {
+              "l": "10",
+              "r": "18"
+            },
+            {
+              "l": "10",
+              "r": "11"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up4",
+          "name": "High-Cable Lateral Raise",
+          "sets": [
+            {
+              "l": "5",
+              "r": "7"
+            },
+            {
+              "l": "5",
+              "r": "6"
+            }
+          ],
+          "done": true
+        },
+        {
+          "sid": "up5",
+          "name": "1-Arm Reverse Pec Deck",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        },
+        {
+          "sid": "up6",
+          "name": "Cable Crunch",
+          "sets": [
+            {
+              "l": "",
+              "r": ""
+            },
+            {
+              "l": "",
+              "r": ""
+            }
+          ],
+          "done": false
+        }
+      ]
+    }
+  ],
+  "customs": {
+    "up1": [
+      "DB Bench Lat Pull Up"
+    ],
+    "fb2": [
+      "Incline Machine Chest Press"
+    ],
+    "fb0": [
+      "Modified Zottman Curl"
+    ],
+    "ad7": [
+      "Shoulder Press"
+    ],
+    "up4": [
+      "Shoulder Press"
+    ],
+    "c_mtcmj0usefrow": [
+      "Lying Reverse DB Flye"
+    ]
+  },
+  "aliases": {
+    "dumbbelllatpullup": "DB Bench Lat Pull Up"
+  },
+  "days": [
+    {
+      "id": "b4a",
+      "name": "A \u00b7 Chest + Quads",
+      "slots": [
+        {
+          "id": "b4a0",
+          "main": "Leg Press",
+          "sets": 3,
+          "repRange": "8-12",
+          "muscle": "Quads",
+          "rest": "2-3 min",
+          "subs": [
+            "Smith Machine Squat"
+          ]
+        },
+        {
+          "id": "b4a1",
+          "main": "Machine Chest Press",
+          "sets": 3,
+          "repRange": "8-12",
+          "muscle": "Chest",
+          "rest": "2-3 min",
+          "subs": [
+            "DB Bench Press"
+          ]
+        },
+        {
+          "id": "b4a2",
+          "main": "Lat Pulldown (Wide Grip)",
+          "sets": 2,
+          "repRange": "8-12",
+          "muscle": "Back",
+          "rest": "2-3 min",
+          "subs": [
+            "1-Arm Cable Pulldown"
+          ]
+        },
+        {
+          "id": "b4a3",
+          "main": "High-Cable Lateral Raise",
+          "sets": 2,
+          "repRange": "12-20",
+          "muscle": "Side delts",
+          "rest": "1-2 min",
+          "subs": [
+            "DB Lateral Raise"
+          ]
+        },
+        {
+          "id": "b4a4",
+          "main": "Triceps Pulldown",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Triceps",
+          "rest": "1-2 min",
+          "subs": []
+        },
+        {
+          "id": "b4a5",
+          "main": "Standing Calf Raise",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Calves",
+          "rest": "1-2 min",
+          "subs": [
+            "Leg Press Calf Press"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4b",
+      "name": "B \u00b7 Back + Hamstrings",
+      "slots": [
+        {
+          "id": "b4b0",
+          "main": "Barbell RDL",
+          "sets": 2,
+          "repRange": "8-10",
+          "muscle": "Hamstrings",
+          "rest": "2-3 min",
+          "subs": [
+            "DB RDL"
+          ]
+        },
+        {
+          "id": "b4b1",
+          "main": "Seated Cable Row",
+          "sets": 3,
+          "repRange": "8-12",
+          "muscle": "Back",
+          "rest": "2-3 min",
+          "subs": [
+            "Chest-Supported Row"
+          ]
+        },
+        {
+          "id": "b4b2",
+          "main": "Shoulder Press",
+          "sets": 2,
+          "repRange": "8-12",
+          "muscle": "Front delts",
+          "rest": "2-3 min",
+          "subs": [
+            "Machine Shoulder Press"
+          ]
+        },
+        {
+          "id": "b4b3",
+          "main": "Bayesian Cable Curl",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Biceps",
+          "rest": "1-2 min",
+          "subs": [
+            "Incline DB Curl"
+          ]
+        },
+        {
+          "id": "b4b4",
+          "main": "Leg Curl",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Hamstrings",
+          "rest": "1-2 min",
+          "subs": [
+            "Seated Leg Curl",
+            "Lying Leg Curl"
+          ]
+        },
+        {
+          "id": "b4b5",
+          "main": "Cable Crunch",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Abs",
+          "rest": "1-2 min",
+          "subs": [
+            "Machine Crunch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4c",
+      "name": "C \u00b7 Chest + Quads",
+      "slots": [
+        {
+          "id": "b4c0",
+          "main": "Leg Extension",
+          "sets": 3,
+          "repRange": "10-15",
+          "muscle": "Quads",
+          "rest": "1-2 min",
+          "subs": []
+        },
+        {
+          "id": "b4c1",
+          "main": "DB Incline Press",
+          "sets": 3,
+          "repRange": "8-12",
+          "muscle": "Chest",
+          "rest": "2-3 min",
+          "subs": [
+            "Incline Machine Chest Press"
+          ]
+        },
+        {
+          "id": "b4c2",
+          "main": "Close-Grip Lat Pulldown",
+          "sets": 2,
+          "repRange": "8-12",
+          "muscle": "Back",
+          "rest": "2-3 min",
+          "subs": [
+            "1-Arm Cable Pulldown"
+          ]
+        },
+        {
+          "id": "b4c3",
+          "main": "High-Cable Lateral Raise",
+          "sets": 2,
+          "repRange": "12-20",
+          "muscle": "Side delts",
+          "rest": "1-2 min",
+          "subs": [
+            "DB Lateral Raise"
+          ]
+        },
+        {
+          "id": "b4c4",
+          "main": "Overhead Cable Triceps Extension",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Triceps",
+          "rest": "1-2 min",
+          "subs": [
+            "Overhead DB Triceps Extension"
+          ]
+        },
+        {
+          "id": "b4c5",
+          "main": "Standing Calf Raise",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Calves",
+          "rest": "1-2 min",
+          "subs": [
+            "Leg Press Calf Press"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4d",
+      "name": "D \u00b7 Back + Hamstrings",
+      "slots": [
+        {
+          "id": "b4d0",
+          "main": "Leg Curl",
+          "sets": 3,
+          "repRange": "10-15",
+          "muscle": "Hamstrings",
+          "rest": "1-2 min",
+          "subs": [
+            "Seated Leg Curl",
+            "Lying Leg Curl"
+          ]
+        },
+        {
+          "id": "b4d1",
+          "main": "Chest-Supported Row",
+          "sets": 3,
+          "repRange": "8-12",
+          "muscle": "Back",
+          "rest": "2-3 min",
+          "subs": [
+            "Seated Cable Row"
+          ]
+        },
+        {
+          "id": "b4d2",
+          "main": "Cable Chest Peck Deck",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Chest",
+          "rest": "1-2 min",
+          "subs": [
+            "Machine Pec Deck"
+          ]
+        },
+        {
+          "id": "b4d3",
+          "main": "Alternate DB Curl",
+          "sets": 2,
+          "repRange": "8-12",
+          "muscle": "Biceps",
+          "rest": "1-2 min",
+          "subs": [
+            "Modified Zottman Curl"
+          ]
+        },
+        {
+          "id": "b4d4",
+          "main": "1-Arm Reverse Pec Deck",
+          "sets": 2,
+          "repRange": "12-20",
+          "muscle": "Rear delts",
+          "rest": "1-2 min",
+          "subs": [
+            "Lying Reverse DB Flye"
+          ]
+        },
+        {
+          "id": "b4d5",
+          "main": "Cable Crunch",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Abs",
+          "rest": "1-2 min",
+          "subs": [
+            "Machine Crunch"
+          ]
+        }
+      ]
+    }
+  ],
+  "extra": [
+    "Dumbbell Lat Pull Up",
+    "Incline Machine Chest Press",
+    "Cable Chest Peck Deck",
+    "Shoulder Press"
+  ],
+  "hidden": [],
+  "legacyDays": [
+    {
+      "id": "fb",
+      "name": "Full Body",
+      "slots": [
+        {
+          "main": "Machine Chest Press",
+          "sets": 2,
+          "repRange": "6-8",
+          "rest": "3-5 min",
+          "subs": [
+            "DB Incline Press"
+          ],
+          "i": 2,
+          "id": "fb2"
+        },
+        {
+          "main": "Lat Pulldown (Wide Grip)",
+          "sets": 2,
+          "repRange": "6-8",
+          "rest": "2-3 min",
+          "subs": [
+            "1-Arm Cable Pulldown"
+          ],
+          "i": 4,
+          "id": "fb4"
+        },
+        {
+          "main": "Alternate DB Curl",
+          "sets": 2,
+          "repRange": "6-8",
+          "rest": "1-2 min",
+          "subs": [
+            "Bayesian Cable Curl"
+          ],
+          "i": 0,
+          "id": "fb0"
+        },
+        {
+          "main": "Triceps Pulldown",
+          "sets": 2,
+          "repRange": "6-8",
+          "rest": "3-5 min",
+          "subs": [],
+          "i": 1,
+          "id": "fb1"
+        },
+        {
+          "main": "Cable Y-Raise",
+          "sets": 1,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "Incline DB Y-Raise"
+          ],
+          "i": 3,
+          "id": "fb3"
+        },
+        {
+          "main": "Standing Calf Raise",
+          "sets": 1,
+          "repRange": "6-8",
+          "rest": "1-2 min",
+          "subs": [
+            "Leg Press Calf Press",
+            "Donkey Calf Raise"
+          ],
+          "i": 5,
+          "id": "fb5"
+        }
+      ]
+    },
+    {
+      "id": "up",
+      "name": "Upper",
+      "slots": [
+        {
+          "main": "Close-Grip Lat Pulldown",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "2-3 min",
+          "subs": [
+            "1-Arm Cable Pulldown"
+          ],
+          "i": 0,
+          "id": "up0"
+        },
+        {
+          "main": "Standing Lat Push Down",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "2-3 min",
+          "subs": [],
+          "i": 1,
+          "id": "up1"
+        },
+        {
+          "main": "Cable Shrug-In",
+          "sets": 1,
+          "repRange": "6-8",
+          "rest": "1-2 min",
+          "subs": [
+            "Barbell Shrug"
+          ],
+          "i": 2,
+          "id": "up2"
+        },
+        {
+          "main": "Machine Chest Press",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "3-5 min",
+          "subs": [
+            "DB Bench Press"
+          ],
+          "i": 3,
+          "id": "up3"
+        },
+        {
+          "id": "c_mtcmj0usefrow",
+          "main": "Cable Chest Peck Deck",
+          "sets": 2,
+          "repRange": "N/A",
+          "rest": "3 min",
+          "subs": []
+        },
+        {
+          "main": "High-Cable Lateral Raise",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "DB Lateral Raise"
+          ],
+          "i": 4,
+          "id": "up4"
+        },
+        {
+          "main": "1-Arm Reverse Pec Deck",
+          "sets": 1,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "Lying Reverse DB Flye",
+            "Reverse Cable Crossover"
+          ],
+          "i": 5,
+          "id": "up5"
+        },
+        {
+          "main": "Cable Crunch",
+          "sets": 2,
+          "repRange": "6-8",
+          "rest": "1-2 min",
+          "subs": [
+            "Weighted Crunch",
+            "Machine Crunch"
+          ],
+          "i": 6,
+          "id": "up6"
+        }
+      ]
+    },
+    {
+      "id": "lo",
+      "name": "Lower",
+      "slots": [
+        {
+          "main": "Leg Extension",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "Reverse Nordic",
+            "Sissy Squat"
+          ],
+          "i": 0,
+          "id": "lo0"
+        },
+        {
+          "main": "Barbell RDL",
+          "sets": 2,
+          "repRange": "6-8",
+          "rest": "2-3 min",
+          "subs": [
+            "DB RDL",
+            "Seated Cable Deadlift"
+          ],
+          "i": 1,
+          "id": "lo1"
+        },
+        {
+          "main": "Machine Hip Thrust",
+          "sets": 2,
+          "repRange": "6-8",
+          "rest": "2-3 min",
+          "subs": [
+            "Barbell Hip Thrust",
+            "45\u00b0 Hyperextension"
+          ],
+          "i": 2,
+          "id": "lo2"
+        },
+        {
+          "main": "Leg Press",
+          "sets": 1,
+          "repRange": "6-8",
+          "rest": "2-3 min",
+          "subs": [
+            "Smith Machine Squat",
+            "Barbell Squat"
+          ],
+          "i": 3,
+          "id": "lo3"
+        },
+        {
+          "main": "Standing Calf Raise",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "Leg Press Calf Press",
+            "Donkey Calf Raise"
+          ],
+          "i": 4,
+          "id": "lo4"
+        }
+      ]
+    },
+    {
+      "id": "ad",
+      "name": "Arms/Delts",
+      "slots": [
+        {
+          "main": "Bayesian Cable Curl",
+          "sets": 2,
+          "repRange": "6-8",
+          "rest": "1-2 min",
+          "subs": [
+            "Incline DB Curl",
+            "Standing DB Curl"
+          ],
+          "i": 0,
+          "id": "ad0"
+        },
+        {
+          "main": "Overhead Cable Triceps Extension",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "Overhead DB Triceps Extension",
+            "Skull Crusher"
+          ],
+          "i": 1,
+          "id": "ad1"
+        },
+        {
+          "main": "Modified Zottman Curl",
+          "sets": 1,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "DB Hammer Curl",
+            "Preacher Hammer Curl"
+          ],
+          "i": 2,
+          "id": "ad2"
+        },
+        {
+          "main": "Cable Triceps Kickback",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "Seated Dip Machine",
+            "Close-Grip Dip"
+          ],
+          "i": 3,
+          "id": "ad3"
+        },
+        {
+          "main": "DB Wrist Curl",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "Cable Wrist Curl"
+          ],
+          "i": 4,
+          "id": "ad4"
+        },
+        {
+          "main": "DB Wrist Extension",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "Cable Wrist Extension"
+          ],
+          "i": 5,
+          "id": "ad5"
+        },
+        {
+          "main": "Alternating DB Curl",
+          "sets": 1,
+          "repRange": "6-8",
+          "rest": "1-2 min",
+          "subs": [
+            "Barbell Curl",
+            "EZ-Bar Curl"
+          ],
+          "i": 6,
+          "id": "ad6"
+        },
+        {
+          "main": "High-Cable Lateral Raise",
+          "sets": 2,
+          "repRange": "8-10",
+          "rest": "1-2 min",
+          "subs": [
+            "DB Lateral Raise"
+          ],
+          "i": 7,
+          "id": "ad7"
+        },
+        {
+          "main": "Dead Hang (optional)",
+          "sets": 2,
+          "repRange": "time",
+          "rest": "1-2 min",
+          "subs": [],
+          "i": 8,
+          "id": "ad8"
+        }
+      ]
+    }
+  ],
+  "preferences": {
+    "intro": true,
+    "introStart": 0
+  },
+  "metrics": {},
+  "active": null
+}
