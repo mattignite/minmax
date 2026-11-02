@@ -1,0 +1,319 @@
+{
+  "app": "bloom",
+  "version": 1,
+  "exported": "2026-11-02T00:00:00.000Z",
+  "sessions": [],
+  "active": null,
+  "days": [
+    {
+      "id": "bloom_a",
+      "name": "A \u00b7 Glutes + Quads",
+      "focus": "Lower body",
+      "minutes": "45\u201360",
+      "slots": [
+        {
+          "id": "ba0",
+          "main": "Machine Hip Thrust",
+          "sets": 3,
+          "repRange": "8-12",
+          "muscle": "Glutes",
+          "tip": "Keep ribs down. Squeeze your glutes at the top without arching your lower back.",
+          "rest": "2-3 min",
+          "subs": [
+            "Barbell Hip Thrust",
+            "DB Glute Bridge"
+          ]
+        },
+        {
+          "id": "ba1",
+          "main": "Leg Press",
+          "sets": 3,
+          "repRange": "10-15",
+          "muscle": "Quads",
+          "tip": "Keep your back and hips supported. Use a comfortable depth without your pelvis rolling up.",
+          "rest": "2-3 min",
+          "subs": []
+        },
+        {
+          "id": "ba2",
+          "main": "Seated Leg Curl",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Hamstrings",
+          "tip": "Align the machine with your knees. Lower the weight slowly.",
+          "rest": "1-2 min",
+          "subs": [
+            "Lying Leg Curl"
+          ]
+        },
+        {
+          "id": "ba3",
+          "main": "Leg Extension",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Quads",
+          "tip": "Set the backrest and knee position first. Lift smoothly without swinging.",
+          "rest": "1-2 min",
+          "subs": []
+        },
+        {
+          "id": "ba4",
+          "main": "Hip Abduction Machine",
+          "sets": 2,
+          "repRange": "12-20",
+          "muscle": "Glutes",
+          "tip": "Use a small, controlled range you can repeat. Avoid bouncing.",
+          "rest": "1-2 min",
+          "subs": [
+            "Standing Cable Hip Abduction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloom_b",
+      "name": "B \u00b7 Back + Arms + Abs",
+      "focus": "Upper body",
+      "minutes": "40\u201355",
+      "slots": [
+        {
+          "id": "bb0",
+          "main": "Lat Pulldown",
+          "sets": 2,
+          "repRange": "8-12",
+          "muscle": "Back",
+          "tip": "Pull your elbows down toward your sides. Keep your torso steady.",
+          "rest": "2-3 min",
+          "subs": [
+            "Close-Grip Lat Pulldown"
+          ]
+        },
+        {
+          "id": "bb1",
+          "main": "Machine Chest Press",
+          "sets": 2,
+          "repRange": "8-12",
+          "muscle": "Chest",
+          "tip": "Adjust the seat so the handles are around mid-chest. Keep shoulders comfortable.",
+          "rest": "2-3 min",
+          "subs": [
+            "DB Bench Press"
+          ]
+        },
+        {
+          "id": "bb2",
+          "main": "Seated Cable Row",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Back",
+          "tip": "Pull elbows back without leaning or jerking. Let the arms lengthen under control.",
+          "rest": "2-3 min",
+          "subs": [
+            "Chest-Supported Row"
+          ]
+        },
+        {
+          "id": "bb3",
+          "main": "DB Lateral Raise",
+          "sets": 2,
+          "repRange": "12-20",
+          "muscle": "Side delts",
+          "tip": "Use light dumbbells. Raise with control to a comfortable height.",
+          "rest": "1-2 min",
+          "subs": []
+        },
+        {
+          "id": "bb4",
+          "main": "DB Curl",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Biceps",
+          "tip": "Keep your elbows still and avoid swinging. Log the weight of one dumbbell.",
+          "rest": "1-2 min",
+          "subs": [
+            "Cable Curl"
+          ]
+        },
+        {
+          "id": "bb5",
+          "main": "Cable Crunch",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Abs",
+          "tip": "Bring ribs toward your pelvis rather than only bending at the hips.",
+          "rest": "1-2 min",
+          "subs": [
+            "Machine Crunch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloom_c",
+      "name": "C \u00b7 Glutes + Hamstrings",
+      "focus": "Lower body",
+      "minutes": "45\u201360",
+      "slots": [
+        {
+          "id": "bc0",
+          "main": "DB RDL",
+          "sets": 2,
+          "repRange": "8-12",
+          "muscle": "Hamstrings",
+          "tip": "Keep knees slightly bent. Move hips back and keep dumbbells close. Stop before your back rounds.",
+          "rest": "2-3 min",
+          "subs": [
+            "Barbell RDL"
+          ]
+        },
+        {
+          "id": "bc1",
+          "main": "Machine Hip Thrust",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Glutes",
+          "tip": "Keep ribs down and finish with your glutes, without overextending your lower back.",
+          "rest": "2-3 min",
+          "subs": [
+            "Barbell Hip Thrust",
+            "DB Glute Bridge"
+          ]
+        },
+        {
+          "id": "bc2",
+          "main": "Leg Press",
+          "sets": 3,
+          "repRange": "10-15",
+          "muscle": "Quads",
+          "tip": "Keep your feet planted and use the same comfortable depth each time.",
+          "rest": "2-3 min",
+          "subs": []
+        },
+        {
+          "id": "bc3",
+          "main": "Seated Leg Curl",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Hamstrings",
+          "tip": "Keep hips against the pad and control the return.",
+          "rest": "1-2 min",
+          "subs": [
+            "Lying Leg Curl"
+          ]
+        },
+        {
+          "id": "bc4",
+          "main": "Hip Abduction Machine",
+          "sets": 2,
+          "repRange": "12-20",
+          "muscle": "Glutes",
+          "tip": "Keep the movement smooth. Choose control over moving the entire stack.",
+          "rest": "1-2 min",
+          "subs": [
+            "Standing Cable Hip Abduction"
+          ]
+        },
+        {
+          "id": "bc5",
+          "main": "Standing Calf Raise",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Calves",
+          "tip": "Use a comfortable stretch and pause at the top. Hold support for balance.",
+          "rest": "1-2 min",
+          "subs": [
+            "Leg Press Calf Press"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloom_d",
+      "name": "D \u00b7 Upper Body + Abs",
+      "focus": "Upper body",
+      "minutes": "40\u201355",
+      "slots": [
+        {
+          "id": "bd0",
+          "main": "Seated Cable Row",
+          "sets": 2,
+          "repRange": "8-12",
+          "muscle": "Back",
+          "tip": "Keep your chest steady and pull without momentum.",
+          "rest": "2-3 min",
+          "subs": [
+            "Chest-Supported Row"
+          ]
+        },
+        {
+          "id": "bd1",
+          "main": "Machine Chest Press",
+          "sets": 2,
+          "repRange": "8-12",
+          "muscle": "Chest",
+          "tip": "Use the same seat setting each session when comparing performance.",
+          "rest": "2-3 min",
+          "subs": [
+            "DB Bench Press"
+          ]
+        },
+        {
+          "id": "bd2",
+          "main": "Lat Pulldown",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Back",
+          "tip": "Pull with elbows and avoid swinging the weight.",
+          "rest": "2-3 min",
+          "subs": [
+            "Close-Grip Lat Pulldown"
+          ]
+        },
+        {
+          "id": "bd3",
+          "main": "Cable Triceps Pushdown",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Triceps",
+          "tip": "Keep elbows near your sides and extend with control.",
+          "rest": "1-2 min",
+          "subs": []
+        },
+        {
+          "id": "bd4",
+          "main": "DB Curl",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Biceps",
+          "tip": "Lower slowly and keep your shoulders still. Log the weight of one dumbbell.",
+          "rest": "1-2 min",
+          "subs": [
+            "Cable Curl"
+          ]
+        },
+        {
+          "id": "bd5",
+          "main": "Cable Crunch",
+          "sets": 2,
+          "repRange": "10-15",
+          "muscle": "Abs",
+          "tip": "Use a controlled curl through the trunk. Stop if it causes back discomfort.",
+          "rest": "1-2 min",
+          "subs": [
+            "Machine Crunch"
+          ]
+        }
+      ]
+    }
+  ],
+  "customs": {},
+  "aliases": {},
+  "extra": [],
+  "hidden": [],
+  "legacyDays": [],
+  "preferences": {
+    "intro": true,
+    "introStart": 0
+  },
+  "metrics": {}
+}
