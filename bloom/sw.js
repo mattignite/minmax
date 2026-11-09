@@ -1,5 +1,5 @@
 const PREFIX = 'bloom:' + self.registration.scope + ':';
-const CACHE = PREFIX + 'v1';
+const CACHE = PREFIX + 'v2-20261110';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting()));
